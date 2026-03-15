@@ -2,7 +2,7 @@
 This repository was created for UConn's ISG-5312 Genomic Data Analysis Final Project.
 
 This repository will house the scripts and analyses for the final project in ISG-5312. Large files, such as fastq, will not be stored here.
-Variant detection of SNPs and small indels will be performed on samples from Wong et al. (2025). 
+Variant detection of SNPs and small indels will be performed on samples from Yi et al.(2010).
 
 The general workflow is:
 
@@ -14,4 +14,5 @@ The general workflow is:
 6. Filter variants
 7. Annotate variants
 
-Wong, M., Liew, B., Hum, M. et al. Benchmarking of variant calling software for whole-exome sequencing using gold standard datasets. Sci Rep 15, 13697 (2025). https://doi.org/10.1038/s41598-025-97047-7
+Yi, X., Liang, Y., Huerta-Sanchez, E., Jin, X., Cuo, Z. X. P., Pool, J. E., Xu, X., Jiang, H., Vinckenbosch, N., et al. (2010). Sequencing of 50 human exomes reveals adaptation to high altitude. *Science, 329*(5987), 75–78. https://doi.org/10.1126/science.1190371
+
