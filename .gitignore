@@ -1,0 +1,17 @@
+# Ignore the Log_Files found in the scripts subdirectories
+
+Log_Files
+
+# Ignore scrapped_scripts found in scripts subdirectories
+
+scrapped_scripts
+
+# Ignore for_removal, these files are slated for review
+
+for_removal
+
+# Ignore Checksum_test
+# I'd like to revisit this idea, but it doesn't need to be in the public repo.
+
+Checksum_test
+
