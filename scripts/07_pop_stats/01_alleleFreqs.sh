@@ -45,7 +45,7 @@ echo "OUT: ${OUTDIR}/${PREFIX}"
 
 mkdir -p "${OUTDIR}"
 
-# calculate allele frequencies for each populaito
+# calculate allele frequencies for each population
 
 # POP1
 vcftools --gzvcf "${VCF_IN}" \
@@ -65,8 +65,6 @@ vcftools --gzvcf "${VCF_IN}" \
   --freq \
   --out "${OUTDIR}/${POP3_NAME}"
 
-hostname
-date
 hostname
 date
 
