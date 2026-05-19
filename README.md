@@ -60,7 +60,7 @@ Analyses were performed on a Linux-based HPC environment using SLURM job schedul
 
 <img width="1800" height="600" alt="pbs_manhattan_20n_filtered_alternating_chr" src="https://github.com/user-attachments/assets/581a1ff4-981d-4865-af89-e4853f3df433" />
 
-**Figure 1.** Manhattan-style visualization of Population Branch Statistic (PBS) values across genomic positions for the Tibetan population. PBS was calculated from pairwise FST estimates among Tibetan, Han, and British populations following SNP filtering and population genetic analysis workflows. Some extreme outlier values likely reflect residual low-coverage and missingness effects observed during exploratory filtering analyses.
+**Figure 1.** Manhattan-style visualization of Population Branch Statistic (PBS) values across genomic positions for the Tibetan population. PBS was calculated from pairwise FST estimates among Tibetan, Han, and British populations following SNP filtering. Some extreme outlier values likely reflect residual low-coverage and missingness effects observed during exploratory filtering analyses.
 
 
 ## Reproducing the Workflow
